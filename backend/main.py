@@ -21,4 +21,5 @@ def root():
     return {'status': 'TaskFlow API is running', 'version': '2.0.0'}
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    port = int(os.environ.get("PORT",10000))
+    app.run(host="0.0.0.0", port=port)
