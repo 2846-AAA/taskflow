@@ -163,5 +163,5 @@ Open `http://localhost:5173` — Register as Admin first, then as Employee!
 
 **Anuja Dhamdhere** — Python Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/anuja-dhamdhere-90795a2b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuja-dhamdhere-90795a2b8)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/2846-AAA)
